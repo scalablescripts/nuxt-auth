@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/antoniopapa/dev/youtube/nuxt/nuxt-auth/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_d3aee8d8"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/antoniopapa/dev/youtube/nuxt/nuxt-auth/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_52c81670"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/antoniopapa/dev/youtube/nuxt/nuxt-auth/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_66fe2f06"
+  }
+]
